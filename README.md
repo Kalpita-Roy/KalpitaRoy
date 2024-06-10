@@ -1,4 +1,4 @@
-![Header](./[github-header-image.png])
+
 <h1 align="center">Hi 👋, I'm Kalpita Roy</h1>
 <h3 align="center">A passionate Back-end developer from India</h3>
 <img align= "right" alt="coding" width="400" src="https://img.freepik.com/premium-vector/young-woman-working-home-freelance-remote-work-vector-illustration_1142-160660.jpg">
